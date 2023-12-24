@@ -13,7 +13,7 @@
 
 - - -
 
-Bitbucket 项目代码仓库链接（非不公开）
+Bitbucket 项目代码仓库链接（非公开）
 * 主页：https://bitbucket.org/mrlizhaozhi-workspace/workspace/overview/
 * 主要项目：
     - 自动技术：https://bitbucket.org/mrlizhaozhi-workspace/workspace/projects/AUT
