@@ -1,0 +1,6 @@
+{
+  "name": "Li Zhaozhi Portfolio",
+  "description": "Online portfolio for Li Zhaozhi, a transformation and analytics professional in financial services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
